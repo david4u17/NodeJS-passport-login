@@ -2,6 +2,10 @@
 
 This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
+## Live Demo
+
+[You can check out the live demo of the website here](https://nodejs-passport-login-register.vercel.app/).
+
 ### Usage
 
 ```sh
